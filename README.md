@@ -1,3 +1,5 @@
+
+
 # Diorama Panda — Ray Tracing en Zig
 
 Diorama estilo Minecraft con un panda al centro, renderizado con un **ray tracer en CPU** escrito en Zig.
