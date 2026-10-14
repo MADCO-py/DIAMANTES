@@ -1,0 +1,8 @@
+.zig-cache/
+zig-cache/
+zig-out/
+render.ppm
+captura.png
+
+# Videos de grabación (GitHub no acepta archivos > 100 MB)
+*.mp4
